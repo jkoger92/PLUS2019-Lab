@@ -1,0 +1,6 @@
+{
+  "name": "it-service-request",
+  "dependencies": {
+    "gmail-send": "^1.8.10"
+  }
+}

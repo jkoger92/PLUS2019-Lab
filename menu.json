@@ -1,0 +1,8 @@
+{ "text": "", "formats": [{
+  "screen": { "record format name": "menu" },
+  "items": [
+    { "id": "Layout1", "field type": "layout", "css class": "office-copy-defaults", "left": "calc(50% - 225px)", "top": "85px", "template": "css panel", "header text": "Admin Menu", "header theme": "office-copy-gray-header", "body theme": "office-copy-white-body", "height": "220px", "width": "450px", "css class 2": "office-copy-panel", "center horizontally": "true" }, 
+    { "id": "GraphicButton1", "field type": "graphic button", "css class": "office-copy-button", "value": "IT Service Request Form", "left": "calc(50% - 122px)", "top": "30px", "width": "245px", "icon position": "left", "css class 2": "office-copy-alt-defaults", "css class 3": "no-icon", "height": "25px", "response": { "fieldName": "form", "customTrue": "", "customFalse": "", "dataType": "indicator", "formatting": "Indicator", "indFormat": "1 / 0" }, "layout": "Layout1", "container": "1" }, 
+    { "id": "GraphicButton1_copy", "field type": "graphic button", "css class": "office-copy-button", "value": "Service Request List", "icon position": "left", "left": "calc(50% - 122px)", "top": "85px", "height": "25px", "width": "245px", "css class 2": "office-copy-alt-defaults", "css class 3": "no-icon", "response": { "fieldName": "list", "customTrue": "", "customFalse": "", "dataType": "indicator", "formatting": "Indicator", "indFormat": "1 / 0" }, "layout": "Layout1", "container": "1" }
+  ]
+}], "keywords": [], "long name aliases": true }
